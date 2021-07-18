@@ -2,83 +2,70 @@
 layout: cv
 title: Bryce Blignaut Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Bryce Blignaut
+Data Science Student BYU - Idaho
 
 <div id="webaddress">
 <a href="bryce.blignaut12@gmail.com">bryce.blignaut12@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="www.linkedin.com/in/bryce-blignaut">LinkedIn</a>
+| <a href="https://github.com/BryceBlignaut">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2018-2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+• Minor: Business Analytics
+• GPA: 3.6/ 4.0
+• Relevant Coursework: Business Statistics, Intermediate Statistics, Organizational Leadership, Human Resources, Introduction to
+Databases, Cognition, Programming with Building Blocks (Python), Writing and Reasoning
+• Member of the Data Science Society
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`July 2020 - April 2021` Rexburg, ID
+__BYU-I__ Verification Analyst
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+• Constructed an onboarding training for new-hires on a learning management system
+• Audited 100+ FAFSA applications per day and analyzed applications to determine student financial aid eligibility
+• Spearheaded and executed a scheduling software to automate a complex schedule for managers and 15+ student employees
 
-### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`June 2020 - July 2020`
+__AT&T__, Intern
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+• Enhanced business acumen by completing course work in leadership, project management, communication, working remotely,
+machine-learning, and AI
+• Refined leadership development skills, such as networking, branding, and management, through 80 hours of fast paced online
+learning
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`February 2018 - October 2019`
+__Rand Merchant Bank__, IT Service Management Consultant
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+• Mentored 20+ IT employees on how to resolve technical issues with new IT services such as Microsoft Intune, Onedrive,
+Multifactor Authentication, and Microsoft Teams
+• Coordinated with 4 different teams to implement a new IT service portal, It centralized where 4000+ bank users could access IT
+services
+• Facilitated task prioritization workshops for teams of 15+ people and created performance reports for executive management to
+monitor team activities
+• Liaised with 10+ support teams to implement new cross-organizational processes and decrease support calls being assigned to
+incorrect support teams
 
 ## Service and Work History
 
 `2025-2027`
-__Math Tutor__, LDSBC
+__Leadership Mentor__, BYU-I
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2015-2017`
+__Service Missionary__, Zimbabwe
 
 
 
