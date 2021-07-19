@@ -30,6 +30,11 @@ Databases, Cognition, Programming with Building Blocks (Python), Writing and Rea
 
 ### Internships
 
+`April 2021 - Present` Charolette, NC
+__WorldWide Health Staff Solutions__ Data Analyst
+
+• Developed Dashboards on DOMO to support business units
+
 `July 2020 - April 2021` Rexburg, ID
 __BYU-I__ Verification Analyst
 
